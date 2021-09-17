@@ -17,6 +17,7 @@ public class HelloApplication extends Application {
         stage.show();
 
         System.out.println("změna pro git");
+        System.out.println("změna z ticketu");
     }
 
     public static void main(String[] args) {
